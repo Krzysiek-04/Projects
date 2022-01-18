@@ -1,0 +1,24 @@
+{
+  "name": "Projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "styled-components": "^5.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krzysiek-04/Projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krzysiek-04/Projects/issues"
+  },
+  "homepage": "https://github.com/Krzysiek-04/Projects#readme"
+}
